@@ -31,7 +31,7 @@ The graduate students in my Subsurface Machine Learning Course complete a Machin
 | Great Executive Summary | Gap, Work to Address Gap, Learnings and Recommendation |
 | Workflow Steps          |  All Aligned with Goal                                                                                                    |
 | Concise Workflow        | Every Step and Figure has a Purpose / Consistent with Provided Template / Features Briefly Explained / Feature have Units |
-| Images / Figure         | Excellent Figures / Subplots and Combined Plots for Efficient Displays and Communication / Axes Labeled / Consistent Figure Sizes |
+| Images / Figures         | Excellent Figures / Subplots and Combined Plots for Efficient Displays and Communication / Axes Labeled / Consistent Figure Sizes |
 | Demonstrated Knowledge  | All Modeling Choices Defended / Demonstrated Extension of Knowledge                                                               | 
 | Readable Code           | Code Documentation / Steps’ Description and Observations between Code Blocks / Only Include Needed Packages / Use Function for Concise Code |
 | Citations               | All Code from Others Cited                                                                                                        |
