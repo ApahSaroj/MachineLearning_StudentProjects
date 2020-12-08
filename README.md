@@ -20,7 +20,7 @@ For more about Michael check out these links:
 
 *You will learn the theory and practice of data analytics and machine learning for subsurface resource modeling. We will build from the ground up covering fundamental probability and statistics; data preparation and feature engineering, inference (clustering, multidimensional scaling) and prediction (regression, naïve Bayes, decision trees, random forest, support vector machines and artificial neural nets); model selection, training, testing, tuning and validation.*
 
-You don't have to take my work for it! All of the lectures are recorded on my YouTube Channel. [Subsurface Machine Learning](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf).
+You don't have to take my word for it! All of the lectures are recorded on my YouTube Channel. [Subsurface Machine Learning](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf).
 
 #### About the Graduate Projects
 
