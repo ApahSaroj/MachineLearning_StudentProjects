@@ -20,10 +20,10 @@ For more about Michael check out these links:
 #### Course TAs and Contributors:
 
 ##### Honggeun Jo, Graduate Student, The University of Texas at Austin
-#### [LinkedIn](https://www.linkedin.com/in/yuchen-jack-xiao-b1b20876/)
+#### [LinkedIn](https://www.linkedin.com/in/yuchen-jack-xiao-b1b20876/) | [Website](http://www.michaelpyrcz.com/my-students.html)
 
 ##### Jack Xiao, Graduate Student, The University of Texas at Austin
-#### [LinkedIn](https://www.linkedin.com/in/honggeun-jo/)
+#### [LinkedIn](https://www.linkedin.com/in/honggeun-jo/) | [Website](http://www.michaelpyrcz.com/my-students.html)
 
 
 #### About the Course
