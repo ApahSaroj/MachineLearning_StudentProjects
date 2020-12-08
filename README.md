@@ -2,8 +2,8 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-# Subsurface Machine Learning Student Projects
-# Cockrell School of Engineering and Jackson School of Geosciences, The University of Texas at Austin
+# Subsurface Machine Learning - Graduate Student Projects
+### Cockrell School of Engineering and Jackson School of Geosciences, The University of Texas at Austin
 
 #### The Author and Instructor:
 
